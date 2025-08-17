@@ -42,7 +42,7 @@ kindly submit your request by creating an issue </br>
 ### How To Use - Text Guide
 1. From this GitHub repository press on "<> Code" and then press on "Download ZIP".
 2. From "MasterParser-main.zip" export the folder "MasterParser-main" to you Desktop.
-3. Open a PowerSehll terminal and navigate to the "MasterParser-main" folder.
+3. Open a PowerShell terminal and navigate to the "MasterParser-main" folder.
 ```
 # How to navigate to "MasterParser-main" folder from the PS terminal
 PS C:\> cd "C:\Users\user\Desktop\MasterParser-main\"
